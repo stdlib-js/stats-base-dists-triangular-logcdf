@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-19)
+## Unreleased (2025-03-07)
+
+<section class="features">
+
+### Features
+
+-   [`be656a1`](https://github.com/stdlib-js/stdlib/commit/be656a143216896aa6b1ce0df89646e6a3565ec9) - add C implementation for `stats/base/dists/triangular/logcdf` [(#4326)](https://github.com/stdlib-js/stdlib/pull/4326)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3814](https://github.com/stdlib-js/stdlib/issues/3814)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`be656a1`](https://github.com/stdlib-js/stdlib/commit/be656a143216896aa6b1ce0df89646e6a3565ec9) - **feat:** add C implementation for `stats/base/dists/triangular/logcdf` [(#4326)](https://github.com/stdlib-js/stdlib/pull/4326) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
 
 </details>
@@ -24,8 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
+-   Prashant Kumar Yadav
 -   Saurabh Singh
 
 </section>
